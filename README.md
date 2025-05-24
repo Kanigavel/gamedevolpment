@@ -51,3 +51,7 @@
 
 
 ## OUTPUT:
+![Poster - Film is the Best Therapy for You](https://github.com/user-attachments/assets/b7322e6d-f84b-46f2-8b11-510d1ab5214e)
+
+## RESULT:
+To edit an image using an image editing software is created successfully
